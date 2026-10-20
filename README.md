@@ -33,4 +33,4 @@
 ### 📫 Me contacter
 
 - 📧 Email : [florian.lavezzi9@etu.univ-lorraine.fr](mailto:florian.lavezzi9@etu.univ-lorraine.fr)
-- 💬 Discord : `AzOxinou` *(ou son tag si tu le connais)*
+- 💬 Discord : `AzOxinou`
